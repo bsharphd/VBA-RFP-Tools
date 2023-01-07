@@ -1,4 +1,5 @@
 # VBA_RFP_Tools
+All code is stored in a private repository
 
 ### Protocol Synopsis Recommendation Tool
 * [Word VBA Code](https://github.com/bsharphd/VBA_RFP_Tools_Code/blob/main/V2.1a%20Keyword%20Search%20and%20Recommendation%20(Module%201%20-%20VBA%20Project))
